@@ -21,12 +21,8 @@
   inset-inline-end: 1px;
 }
 
-.resume-img-container {
-  display: flex !important;
-  justify-content: center;
-  text-align: center;
-}
-.resume-img {
+.mine-img {
+  align-items: center !important;
   width: 200px;
   border-radius: 2%;
 }
